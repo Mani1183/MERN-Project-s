@@ -1,0 +1,20 @@
+   *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .nav {
+            background-color: #333;
+            color: white;
+            text-align: center;
+        }
+        .container {
+            position: relative;
+            height: 94vh;
+            width: 100%;              
+            background: rgb(160, 224, 237);
+            border: #333 2px solid;   
+            cursor: pointer; 
+            overflow: hidden;
+        }
